@@ -4,8 +4,8 @@ html {
 }
 
 h1 {
- text-align: center;
- text-decoration: none;
+  text-align: center;
+  text-decoration: none;
 }
 
 h2, h3 {
@@ -241,15 +241,13 @@ h1 {
   background-color: #a4b8b6;
 }
 
-
 /* -------- animations -------*/
 
 #yellow {
   opacity: .5;
   background-color: #ecd177;
   transition: all 200ms linear;
-
-    transform-origin: center center;
+  transform-origin: center center;
 }
 
 #yellow:hover {

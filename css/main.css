@@ -246,7 +246,7 @@ h1 {
 
 #clumsy {
   transform-origin: center center;
-  animation: shake 100ms infinite alternate;
+  animation: shake 300ms infinite alternate;
 }
 
 @keyframes shake {

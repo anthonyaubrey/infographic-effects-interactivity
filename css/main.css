@@ -241,8 +241,124 @@ h1 {
   background-color: #a4b8b6;
 }
 
+.barmove-blue {
+  transform: scaleX(0);
+}
+
+.slide {
+  transform: scaleX(1);
+  transition: 1s;
+}
+
 /* -------- animations -------*/
 
+#r-music:hover {
+  transform: scale(1.15);
+}
+
+#r-music {
+  transition: all 100ms linear;
+  transform-origin: center center;
+}
+
+#precise:hover {
+  transform: scale(1.2);
+}
+
+#precise {
+  transition: all 100ms linear;
+  transform-origin: center center;
+}
+
+#r-clock:hover {
+  transform: scale(1.1);
+}
+
+#r-clock {
+  transition: all 100ms linear;
+  transform-origin: center center;
+}
+
+#r-magnify:hover {
+  transform: scale(1.2);
+}
+
+#r-magnify {
+  transition: all 100ms linear;
+  transform-origin: center center;
+}
+
+#r-psychic:hover {
+  transform: scale(1.15);
+}
+
+#r-psychic {
+  transition: all 100ms linear;
+  transform-origin: center center;
+}
+
+#r-heart:hover {
+  transform: scale(1.15);
+}
+
+#r-heart {
+  transition: all 100ms linear;
+  transform-origin: center center;
+}
+
+#r-art:hover {
+  transform: scale(1.15);
+}
+
+#r-art {
+  transition: all 100ms linear;
+  transform-origin: center center;
+}
+
+#l-realistic:hover {
+  transform: scale(1.3);
+}
+
+#l-realistic {
+  transition: all 100ms linear;
+  transform-origin: center center;
+}
+
+#l-logic:hover {
+  transform: scale(1.2);
+}
+
+#l-logic {
+  transition: all 100ms linear;
+  transform-origin: center center;
+}
+
+#rational:hover {
+  transform: scale(1.3);
+}
+
+#rational {
+  transition: all 100ms linear;
+  transform-origin: center center;
+}
+
+#l-music:hover {
+  transform: scale(1.2);
+}
+
+#l-music {
+  transition: all 100ms linear;
+  transform-origin: center center;
+}
+
+#planner:hover {
+  transform: scale(1.3);
+}
+
+#planner {
+  transition: all 100ms linear;
+  transform-origin: center center;
+}
 #yellow {
   opacity: .5;
   background-color: #ecd177;

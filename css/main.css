@@ -241,6 +241,10 @@ h1 {
   background-color: #a4b8b6;
 }
 
+.barmove-woo {
+  transform: scale(0);
+}
+
 .barmove-blue {
   transform: scaleX(0);
 }

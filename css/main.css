@@ -254,7 +254,7 @@ h1 {
   transition: 1s;
 }
 
-/* -------- animations -------*/
+/* -------- animations ------- */
 
 .js-mapp-animate {
   animation: fade 1s ease;
@@ -270,6 +270,7 @@ h1 {
     opacity: 1;
   }
 }
+
 #r-music:hover {
   transform: scale(1.15);
 }
@@ -377,6 +378,7 @@ h1 {
   transition: all 100ms linear;
   transform-origin: center center;
 }
+
 #yellow {
   opacity: .5;
   background-color: #ecd177;
@@ -395,7 +397,9 @@ h1 {
 }
 
 @keyframes shake {
+
   0% { transform: rotate(5deg); }
+
   100% { transform: rotate(9deg); }
 }
 

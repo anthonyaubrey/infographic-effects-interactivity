@@ -256,6 +256,20 @@ h1 {
 
 /* -------- animations -------*/
 
+.js-mapp-animate {
+  animation: fade 1s ease;
+}
+
+@keyframes fade {
+
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
 #r-music:hover {
   transform: scale(1.15);
 }

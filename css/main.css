@@ -271,6 +271,114 @@ h1 {
   }
 }
 
+#audio:hover {
+  transform: scale(1.15);
+}
+
+#audio {
+  transition: all 100ms linear;
+  transform-origin: center center;
+}
+
+#cloud:hover {
+  transform: scale(1.15);
+}
+
+#cloud {
+  transition: all 100ms linear;
+  transform-origin: center center;
+}
+
+#microphone:hover {
+  transform: scale(1.15);
+}
+
+#microphone {
+  transition: all 100ms linear;
+  transform-origin: center center;
+}
+
+#chart:hover {
+  transform: scale(1.15);
+}
+
+#chart {
+  transition: all 100ms linear;
+  transform-origin: center center;
+}
+
+#direction:hover {
+  transform: scale(1.15);
+}
+
+#direction {
+  transition: all 100ms linear;
+  transform-origin: center center;
+}
+
+#letter:hover {
+  transform: scale(1.15);
+}
+
+#letter {
+  transition: all 100ms linear;
+  transform-origin: center center;
+}
+
+#hourglass:hover {
+  transform: scale(1.15);
+}
+
+#hourglass {
+  transition: all 100ms linear;
+  transform-origin: center center;
+}
+
+#graph:hover {
+  transform: scale(1.15);
+}
+
+#graph {
+  transition: all 100ms linear;
+  transform-origin: center center;
+}
+
+#alone:hover {
+  transform: scale(1.15);
+}
+
+#alone {
+  transition: all 100ms linear;
+  transform-origin: center center;
+}
+
+#free:hover {
+  transform: scale(1.15);
+}
+
+#free {
+  transition: all 100ms linear;
+  transform-origin: center center;
+}
+
+#folder:hover {
+  transform: scale(1.15);
+}
+
+#folder {
+  transition: all 100ms linear;
+  transform-origin: center center;
+}
+
+#leader:hover {
+  transform: scale(1.15);
+}
+
+#leader {
+  transition: all 100ms linear;
+  transform-origin: center center;
+}
+
 #r-music:hover {
   transform: scale(1.15);
 }
